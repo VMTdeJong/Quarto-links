@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "chapter_y.html",
+    "href": "chapter_y.html",
+    "title": "2  Chapter y",
+    "section": "",
+    "text": "Cross-ref to a level 2 header in a part: Section 1\nHyperlink to a level 1 header in a part: part x (The link appears in pdf, but does not work. in html it works)\nHyperlink to a level 2 header in a part: part x section x.1"
+  }
+]

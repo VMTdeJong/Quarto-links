@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Quarto test"
+  chapters:
+    - index.qmd
+    - part: part_x.qmd
+      chapters:
+      - chapter_y.qmd
+
+crossref: 
+  chapters: true
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+    
+editor: visual
+

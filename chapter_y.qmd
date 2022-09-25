@@ -1,0 +1,9 @@
+# Chapter y
+
+Cross-ref to a level 1 header in a part: @sec-part-x
+
+Cross-ref to a level 2 header in a part: @sec-part-x-section-1
+
+Hyperlink to a level 1 header in a part: [part x](part_x.qmd) (The link appears in pdf, but does not work. in html it works)
+
+Hyperlink to a level 2 header in a part: [part x section x.1](part_x.qmd#sec-part-x-section-1)
